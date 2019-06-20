@@ -1,0 +1,12 @@
+{
+  "appid": "money-to-chinese",
+  "setting": {
+    "urlCheck": false
+  },
+  "condition": {
+    "swan": {
+      "current": -1,
+      "list": []
+    }
+  }
+}
