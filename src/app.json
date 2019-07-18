@@ -10,10 +10,12 @@
   "component": true,  
   "usingComponents": {
     "i-row": "../static/iview/row/index",
+    "i-icon": "../static/iview/icon/index",
     "i-col": "../static/iview/col/index",
     "i-input": "../static/iview/input/index",
     "i-card": "../static/iview/card/index",
     "i-alert": "../static/iview/alert/index",
-    "i-notice-bar": "../static/iview/notice-bar/index"
+    "i-notice-bar": "../static/iview/notice-bar/index",
+    "i-button": "../static/iview/button/index"
   }
 }

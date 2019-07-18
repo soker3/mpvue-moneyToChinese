@@ -12,7 +12,7 @@
 	},
 	"miniprogramRoot": "dist/wx/",
 	"compileType": "miniprogram",
-	"appid": "wxcf24e2dd4b51c0c1",
+	"appid": "wx2fd3ad5654f9183c",
 	"projectname": "mpvue-money-to-chinese",
 	"simulatorType": "wechat",
 	"simulatorPluginLibVersion": {},

@@ -13,7 +13,7 @@ export default {
     window: {
       backgroundTextStyle: 'light',
       navigationBarBackgroundColor: '#fff',
-      navigationBarTitleText: '第一个小程序',
+      navigationBarTitleText: '金额大写转换器',
       navigationBarTextStyle: 'black'
     }
   }
